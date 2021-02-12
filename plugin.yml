@@ -1,0 +1,6 @@
+name: Graves
+version: 1.0
+author: Litz
+main: me.litz.Graves.Graves
+description: Graves Plugin for Minecraft 1.16.4
+api-version: 1.13
